@@ -1,0 +1,45 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.body{
+  background-image: url(../../imagens/backgroundLp.png);
+}
+.body-center {
+  color: #ffff;
+}
+
+.container1 {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 450px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.topLogo {
+  width: 185px;
+}
+
+.paragraph {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.btnSend {
+  color: #ff0044;
+  border: 1px solid #ff0044;
+}
+.btnSend:hover {
+  background-color: #ff0044;
+  color: rgb(255, 255, 255);
+}
+
+
+.fotter {
+  color: #fff;
+  margin-top: 30px;
+  margin-bottom: -30px;
+}
+
+
+/*# sourceMappingURL=style.css.map */
